@@ -1,0 +1,13 @@
+[
+	{
+        "twitch_name": "Example Name",
+
+        "frequency": 1,
+
+        "active": true,
+
+        "message": "<@DiscordID> is now live! Go check it out!",
+
+        "announce_channel": channel ID
+    }
+]
