@@ -1,6 +1,6 @@
 [
 	{
-        "twitch_name": "Example Name",
+        "twitch_name": "examplename",
 
         "frequency": 1,
 
@@ -8,6 +8,6 @@
 
         "message": "<@DiscordID> is now live! Go check it out!",
 
-        "announce_channel": channel ID
+        "announce_channel": channelID
     }
 ]
