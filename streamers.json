@@ -8,6 +8,6 @@
 
         "message": "<@DiscordID> is now live! Go check it out!",
 
-        "announce_channel": channelID
+        "announce_channel": discordtextchannelID
     }
 ]
